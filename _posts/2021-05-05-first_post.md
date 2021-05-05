@@ -2,4 +2,4 @@
 
 This is my first blogpost.
 
-![Hello World](images/hello.jpg)
+![Hello World](/images/hello.jpg)
